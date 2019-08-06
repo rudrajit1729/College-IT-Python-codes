@@ -12,7 +12,6 @@ while 1:
     total+=x
     i+=1
 avg=float(total/i)
-
 print("total=",total)
 print("Number of terms=",i)
 print("avg=",avg)
