@@ -1,4 +1,4 @@
-n=1
+n=2
 while n<1000:
     flag=1
     for i in range (2,n):
