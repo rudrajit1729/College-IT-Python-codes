@@ -9,6 +9,7 @@ while 1:
     if x=='done':
         break
     a.append(x)
+    
 for i in a:
     print(i)
 print('No more items')
